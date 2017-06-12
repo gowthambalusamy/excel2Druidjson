@@ -1,8 +1,8 @@
 {
    
     "config": {
-        "xls": "SampleLochTX.xlsx",
-	"sheet":"Sheet5",
-	"Uniq Files":["Market","Salesman","Customer Name"]
+        "xls": "titanic3.xlsx",
+	"sheet":"titanic3",
+	"Uniq Files":["sex","name"]
     }
 }
