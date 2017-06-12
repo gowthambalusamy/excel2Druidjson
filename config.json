@@ -1,0 +1,8 @@
+{
+   
+    "config": {
+        "xls": "SampleLochTX.xlsx",
+	"sheet":"Sheet5",
+	"Uniq Files":["Market","Salesman","Customer Name"]
+    }
+}
